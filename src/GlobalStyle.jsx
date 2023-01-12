@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 * {
@@ -65,7 +65,7 @@ a {
 li {
   list-style: none;
 }
-${'' /* resuable code section  */}
+${"" /* resuable code section  */}
 .container {
   max-width: 120rem;
   margin: 0 auto;
@@ -145,4 +145,4 @@ input, textarea{
           grid-template-columns: 1fr;
         }
     }
-`
+`;

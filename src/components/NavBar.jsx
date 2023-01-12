@@ -189,7 +189,6 @@ const Nav = styled.nav`
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      visibility: hidden;
       opacity: 0;
       transform: translateX(100%);
       transition: all 1s linear;
